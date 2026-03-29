@@ -1,0 +1,13 @@
+[project]
+name = "terminal-youtube"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cap-from-youtube>=0.2.0",
+    "dbus-next>=0.2.3",
+    "ffpyplayer>=4.5.3",
+    "opencv-python>=4.13.0.92",
+    "yt-dlp>=2026.3.17",
+]
