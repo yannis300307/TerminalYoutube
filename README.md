@@ -1,1 +1,3 @@
-Writing REAMDE, please wait...
+# TerminalYoutube
+
+Play Youtube videos and lives directly in your Terminal.
